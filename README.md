@@ -16,7 +16,7 @@ I'm a:
 - 🤖 AI Explorer
 
 Proficient in a variety of technologies, including but not limited to:
-- 💻 JavaScript | Python | Java | Solidity
+- 💻 JavaScript | Python | Typescript | Solidity
 - 🌐 HTML | CSS | NextJs
 - 🚀 DevOps & CI/CD
 
