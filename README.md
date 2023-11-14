@@ -13,11 +13,11 @@ Welcome to my coding playground! I'm a passionate developer who loves turning co
 I'm a:
 - 💻 Software Engineer
 - 🌐 Web3 Developer
-- 🤖 AI Learner
+- 🤖 AI Explorer
 
 Proficient in a variety of technologies, including but not limited to:
-- 💻 JavaScript | Python | Java
-- 🌐 HTML | CSS | React
+- 💻 JavaScript | Python | Java | Solidity
+- 🌐 HTML | CSS | NextJs
 - 🚀 DevOps & CI/CD
 
 ## 🔗 Connect with Me
@@ -25,6 +25,6 @@ Proficient in a variety of technologies, including but not limited to:
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/wende_dufera) : Follow me on Twitter for the latest tech trends and occasional developer humor.
 - 💬 Discord: wenezra#4039
 
-Feel free to explore these projects and provide feedback. I'm always open to collaboration and learning new things! 🌈
+Feel free to explore these projects and provide feedback. I'm always open to collaboration and learning new things!
 
 Let's connect and build something amazing together! ✨
