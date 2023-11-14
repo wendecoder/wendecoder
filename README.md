@@ -21,9 +21,9 @@ Proficient in a variety of technologies, including but not limited to:
 - 🚀 DevOps & CI/CD
 
 ## 🔗 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin): Let's connect on LinkedIn for professional networking.
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter): Follow me on Twitter for the latest tech trends and occasional developer humor.
-- 💬 Discord: YourDiscordHandle#1234
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wendwossen-dufera): Let's connect on LinkedIn for professional networking.
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/wende_dufera): Follow me on Twitter for the latest tech trends and occasional developer humor.
+- 💬 Discord: wenezra#4039
 
 Feel free to explore these projects and provide feedback. I'm always open to collaboration and learning new things! 🌈
 
