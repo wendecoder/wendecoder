@@ -9,6 +9,8 @@ Welcome to my coding playground! I'm a passionate developer who loves turning co
 
 - 🔗 [Predictochain](https://github.com/wendecoder/IcogProject): A multifaceted AI project with various features, contributing to the advancement of predictive technologies.
 
+- 🔗 [NFTAuctioningDapp](https://github.com/wendecoder/NFTAuctioningDapp): A novel NFTAuctioning Dapp that encomprises features like NFT minting, Token swap between ETH and AUA(the native token of the platform), NFT listing for auctioning and NFT auctioning.
+- 
 ## 🛠️ Technologies & Roles
 I'm a:
 - 💻 Software Engineer
